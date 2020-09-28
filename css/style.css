@@ -1,0 +1,53 @@
+h1{ color :orange;
+    background-color: royalblue;
+    font-size:40px;
+    text-decoration: line-through;
+    text-decoration: underline;
+    text-shadow: rgb(48, 46, 139);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+h2{ color :darkgreen;
+    background-color:gold;
+    font-weight: 100;
+    font-variant: small-caps;
+    text-align: center;
+    text-decoration: underline;
+}
+
+
+p1{ color : rgb(26, 128, 0);
+    text-align:left;
+    line-height: 30px;
+    letter-spacing: 1px;
+
+
+
+
+
+
+}
+p2{color :brown;
+}
+ul{
+     color:purple;  
+    text-decoration: underline;
+    /* border-width:4px; */
+    /* border-style: dashed;  */
+    border-color: hotpink;
+    border:4px dashed crimson;
+}
+ol{
+    color: rgb(14, 11, 2);
+    text-decoration: underline;
+    border-bottom:3px solid blueviolet;
+    border-left:6px dashed chocolate;
+    border-top: 3px dashed goldenrod;
+}
+li{ list-style-type:square;
+    text-shadow: 3px 3px lightgrey;
+}
+
+
+
+}
